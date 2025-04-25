@@ -8,14 +8,14 @@
 
 - 🔧 I build with **Python**, **HTML/CSS**, and explore both **Web Development** and **AI/Data Science**
 - 🎨 I blend technology with creativity — using code to unlock imagination, culture, and community stories
-- 🧑🏽‍🏫 I believe in **mentorship**, teaching by doing, and supporting the next generation of innovators
+- 🧑🏽‍🏫 I believe in **mentorship**, teaching by doing, and supporting the next generation of innovators 
 - 🌍 Fluent in **English, French, and Kinyarwanda**
 
 ---
 
 ### 👩🏾‍💻 What I'm Learning
 
-- 📚 **ALX Software Engineering** – Web dev, problem-solving, full stack foundations  
+- 📚 **AUCA Software Engineering** – Web dev, problem-solving, full stack foundations  
 - 📊 **ALX Data Science** – Python, NumPy, Pandas, data wrangling, and more  
 - 🧠 Exploring beginner **AI projects** and real-world **data challenges**
 
